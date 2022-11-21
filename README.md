@@ -29,7 +29,13 @@
                                 system：notifications- payment， updates，discount，booking， cancel
                                 front desk： = clients （）
                         
-                Class Diagram
+                Class Diagram：
+                        常见class如下，而相应的代码则见最下面的code
+                        Account：
+                        Payment：
+                        Booking：
+                        Notification：
+                        
                 Sequence Diagram
                 Activities Diagram
 
